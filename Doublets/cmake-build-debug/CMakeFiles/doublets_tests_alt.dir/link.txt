@@ -1,0 +1,1 @@
+/usr/bin/gcc   -rdynamic CMakeFiles/doublets_tests_alt.dir/doublets.c.o CMakeFiles/doublets_tests_alt.dir/doublets_tests.c.o ../lib/dict_alt.o  -o doublets_tests_alt  -Wl,-rpath,"/mnt/c/Oliver Killane's Files/A - Computer Science Degree/COMP40009 - Programming/C Programming/C Past Papers/Doublets/doublets/lib" ../lib/libcriterion.so 

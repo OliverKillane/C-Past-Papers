@@ -1,0 +1,1 @@
+/usr/bin/gcc   -rdynamic CMakeFiles/dictionary_tests.dir/trie.c.o CMakeFiles/dictionary_tests.dir/doublets.c.o CMakeFiles/dictionary_tests.dir/trie_tests.c.o  -o dictionary_tests  -Wl,-rpath,"/mnt/c/Oliver Killane's Files/A - Computer Science Degree/COMP40009 - Programming/C Programming/C Past Papers/Doublets/doublets/lib" ../lib/libcriterion.so 

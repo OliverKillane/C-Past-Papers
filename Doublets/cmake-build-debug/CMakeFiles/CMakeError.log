@@ -1,0 +1,219 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: CMAKE_CXX_COMPILER-NOTFOUND 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1plus’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1plus’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+gcc: error: unrecognized command line option ‘--c++’
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+gcc: error: unrecognized command line option ‘--ec++’; did you mean ‘-Weffc++’?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc: error: unrecognized command line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1plus’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1plus’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+gcc: error: unrecognized command line option ‘--c++’
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+gcc: error: unrecognized command line option ‘--ec++’; did you mean ‘-Weffc++’?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc: error: unrecognized command line option ‘--target=arm-arm-none-eabi’
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /mnt/c/Oliver Killane's Files/A - Computer Science Degree/COMP40009 - Programming/C Programming/C Past Papers/Doublets/doublets/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d262d/fast && make: Warning: File 'Makefile' has modification time 0.62 s in the future
+/usr/bin/make -f CMakeFiles/cmTC_d262d.dir/build.make CMakeFiles/cmTC_d262d.dir/build
+make[1]: Entering directory '/mnt/c/Oliver Killane's Files/A - Computer Science Degree/COMP40009 - Programming/C Programming/C Past Papers/Doublets/doublets/cmake-build-debug/CMakeFiles/CMakeTmp'
+make[1]: Warning: File 'CMakeFiles/cmTC_d262d.dir/flags.make' has modification time 0.61 s in the future
+Building CXX object CMakeFiles/cmTC_d262d.dir/testCXXCompiler.cxx.o
+/usr/bin/gcc     -o CMakeFiles/cmTC_d262d.dir/testCXXCompiler.cxx.o -c "/mnt/c/Oliver Killane's Files/A - Computer Science Degree/COMP40009 - Programming/C Programming/C Past Papers/Doublets/doublets/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
+gcc: fatal error: cannot execute ‘cc1plus’: execvp: No such file or directory
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_d262d.dir/build.make:66: CMakeFiles/cmTC_d262d.dir/testCXXCompiler.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/c/Oliver Killane's Files/A - Computer Science Degree/COMP40009 - Programming/C Programming/C Past Papers/Doublets/doublets/cmake-build-debug/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_d262d/fast] Error 2
+
+
+

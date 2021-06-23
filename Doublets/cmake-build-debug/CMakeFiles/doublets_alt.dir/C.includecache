@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/doublets.h
+stdbool.h
+-
+ctype.h
+-
+trie.h
+../include/trie.h
+
+../include/trie.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+string.h
+-
+
+/mnt/c/Oliver Killane's Files/A - Computer Science Degree/COMP40009 - Programming/C Programming/C Past Papers/Doublets/doublets/main.c
+stdlib.h
+-
+stdbool.h
+-
+doublets.h
+/mnt/c/Oliver Killane's Files/A - Computer Science Degree/COMP40009 - Programming/C Programming/C Past Papers/Doublets/doublets/doublets.h
+trie.h
+/mnt/c/Oliver Killane's Files/A - Computer Science Degree/COMP40009 - Programming/C Programming/C Past Papers/Doublets/doublets/trie.h
+
